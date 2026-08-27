@@ -1,6 +1,6 @@
 - 👋 Hola, soy [@piscis16031995](https://github.com/piscis16031995)
-- 👀 Me interesa el diseño web, el software y la IA aplicada
-- 🌱 Estoy aprendiendo HTML semántico, CSS moderno y JavaScript ES6+
+- 👀 Me interesa el Desarrollo web, Desarrollo de Software & Data Base e IDE Cursor AI
+- 🌱 Estoy aprendiendo HTML semántico, CSS moderno y JavaScript ES6+ (experimental)
 - 💞️ Busco colaborar en proyectos de formación práctica
 - 📫 GitHub: [github.com/piscis16031995](https://github.com/piscis16031995)
 - ⚡ Repositorio de perfil + entorno Cursor sincronizado con GitHub
