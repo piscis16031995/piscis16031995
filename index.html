@@ -15,11 +15,13 @@
 
     <header class="site-header">
       <nav class="nav" aria-label="Navegación principal">
-        <a class="brand" href="/">Diseño Web Pro</a>
+        <a class="brand" href="index.html">Diseño Web Pro</a>
         <ul class="nav-list">
-          <li><a href="#modulos">Módulos</a></li>
-          <li><a href="#practica">Práctica</a></li>
-          <li><a href="#contacto">Contacto</a></li>
+          <li><a href="index.html#modulos">Módulos</a></li>
+          <li><a href="html5.html">HTML5</a></li>
+          <li><a href="ramas.html">Ramas</a></li>
+          <li><a href="red.html">Red</a></li>
+          <li><a href="index.html#contacto">Contacto</a></li>
         </ul>
       </nav>
     </header>
@@ -58,10 +60,32 @@
           </li>
         </ul>
       </section>
+
+      <section id="practica" class="modulos" aria-labelledby="practica-title">
+        <h2 id="practica-title">Práctica en este repositorio</h2>
+        <ul class="cards">
+          <li class="card">
+            <h3><a href="html5.html">Lección HTML5</a></h3>
+            <p>Completa el archivo vacío de la rama patch-1 con una página real.</p>
+          </li>
+          <li class="card">
+            <h3><a href="ramas.html">Ramas en carpetas</a></h3>
+            <p>Inventario JSON y documentación de cada rama remota.</p>
+          </li>
+          <li class="card">
+            <h3><a href="red.html">Seguidores y repos</a></h3>
+            <p>Metadatos públicos. Sin copiar código de terceros.</p>
+          </li>
+        </ul>
+      </section>
     </main>
 
     <footer id="contacto" class="site-footer">
-      <p>Hecho con &hearts; para aprender diseño web · <span id="anio"></span></p>
+      <p>
+        Hecho con &hearts; para aprender diseño web ·
+        <a href="https://github.com/piscis16031995/piscis16031995">GitHub</a> ·
+        <span id="anio"></span>
+      </p>
     </footer>
 
     <script src="main.js"></script>

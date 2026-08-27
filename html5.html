@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Lección HTML5: documento, semántica y accesibilidad desde 0."
+    />
+    <title>HTML5 · Diseño Web Profesional</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <header class="site-header">
+      <nav class="nav" aria-label="Navegación principal">
+        <a class="brand" href="index.html">Diseño Web Pro</a>
+        <ul class="nav-list">
+          <li><a href="index.html#modulos">Módulos</a></li>
+          <li><a href="html5.html" aria-current="page">HTML5</a></li>
+          <li><a href="ramas.html">Ramas</a></li>
+          <li><a href="red.html">Red</a></li>
+          <li><a href="index.html#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="contenido">
+      <section class="hero" aria-labelledby="hero-title">
+        <p class="eyebrow">Módulo 1</p>
+        <h1 id="hero-title">HTML5 semántico desde 0</h1>
+        <p class="lead">
+          La rama <code>piscis16031995-patch-1</code> creó un archivo
+          <code>HTML5</code> vacío. Esta página es la lección real: un documento
+          HTML5 válido, accesible y listo para ampliar.
+        </p>
+      </section>
+
+      <article class="prose" aria-labelledby="esqueleto-title">
+        <h2 id="esqueleto-title">Esqueleto mínimo</h2>
+        <ol>
+          <li><code>&lt;!DOCTYPE html&gt;</code> activa el modo estándar.</li>
+          <li><code>&lt;html lang="es"&gt;</code> declara el idioma.</li>
+          <li><code>&lt;meta charset="UTF-8"&gt;</code> evita caracteres rotos.</li>
+          <li>Usa <code>header</code>, <code>nav</code>, <code>main</code> y <code>footer</code> en lugar de <code>div</code> para todo.</li>
+        </ol>
+        <h2>Práctica</h2>
+        <p>
+          Abre las herramientas de desarrollo, inspecciona este documento y
+          comprueba que hay un único <code>h1</code>, un enlace de salto y
+          <code>aria-current</code> en la navegación.
+        </p>
+        <p>
+          Copia histórica del parche:
+          <a href="ramas/piscis16031995-patch-1/HTML5"><code>ramas/piscis16031995-patch-1/HTML5</code></a>
+        </p>
+      </article>
+    </main>
+
+    <footer id="contacto" class="site-footer">
+      <p>HTML5 · <span id="anio"></span></p>
+    </footer>
+    <script src="main.js"></script>
+  </body>
+</html>

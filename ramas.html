@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Ramas de piscis16031995 ampliadas en carpetas con JSON y documentación." />
+    <title>Ramas · Diseño Web Profesional</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <header class="site-header">
+      <nav class="nav" aria-label="Navegación principal">
+        <a class="brand" href="index.html">Diseño Web Pro</a>
+        <ul class="nav-list">
+          <li><a href="index.html#modulos">Módulos</a></li>
+          <li><a href="html5.html">HTML5</a></li>
+          <li><a href="ramas.html" aria-current="page">Ramas</a></li>
+          <li><a href="red.html">Red</a></li>
+          <li><a href="index.html#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="contenido">
+      <section class="hero" aria-labelledby="hero-title">
+        <p class="eyebrow">Git y GitHub</p>
+        <h1 id="hero-title">Ramas ampliadas en carpetas</h1>
+        <p class="lead">
+          Cada rama remota tiene JSON, Documentación.md y archivos históricos.
+          Así Cursor y GitHub muestran el mismo inventario sin copiar el árbol completo.
+        </p>
+      </section>
+
+      <section class="modulos" aria-labelledby="ramas-title">
+        <h2 id="ramas-title">Inventario</h2>
+        <ul class="cards">
+          <li class="card">
+            <h3>main</h3>
+            <p>Rama publicada. <a href="ramas/main/Documentacion.md">Documentación</a> · <a href="ramas/main/manifiesto.json">JSON</a></p>
+          </li>
+          <li class="card">
+            <h3>piscis16031995-patch-1</h3>
+            <p>Aporta <code>HTML5</code>. <a href="ramas/piscis16031995-patch-1/Documentacion.md">Documentación</a> · <a href="ramas/piscis16031995-patch-1/manifiesto.json">JSON</a></p>
+          </li>
+          <li class="card">
+            <h3>setup-static-web-env</h3>
+            <p>PR #1 fusionado. <a href="ramas/cursor-setup-static-web-env-65a1/Documentacion.md">Documentación</a> · <a href="ramas/cursor-setup-static-web-env-65a1/manifiesto.json">JSON</a></p>
+          </li>
+        </ul>
+        <p class="lead"><a href="ramas/inventario.json">ramas/inventario.json</a></p>
+      </section>
+    </main>
+
+    <footer id="contacto" class="site-footer">
+      <p>Ramas · <span id="anio"></span></p>
+    </footer>
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "origin": "https://github.com/piscis16031995/piscis16031995.git",
+  "default_branch": "main",
+  "fetch": "+refs/heads/*:refs/remotes/origin/*",
+  "sync": {
+    "command": "./scripts/sync-origin.sh",
+    "policy": "fetch --prune; never force-push main; LF line endings via .gitattributes"
+  },
+  "cursor_environment": {
+    "id": "d626cc30-935d-11f1-ba66-0e7d0216e441",
+    "url": "https://cursor.com/dashboard/cloud-agents/environments/e/d626cc30-935d-11f1-ba66-0e7d0216e441",
+    "repo_file": ".cursor/environment.json"
+  },
+  "github_pages": {
+    "configured": false,
+    "local": "http://localhost:8000"
+  }
+}

@@ -1,0 +1,27 @@
+name: Sync check
+
+on:
+  push:
+    branches: [main, "cursor/piscis16031995/**"]
+  pull_request:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch origin and verify site files
+        run: |
+          chmod +x scripts/*.sh
+          ./scripts/cloud-agent-install.sh
+          ./scripts/cloud-agent-start.sh
+      - name: Serve and probe pages
+        run: |
+          python3 -m http.server 8000 --bind 127.0.0.1 &
+          sleep 1
+          for path in / /html5.html /ramas.html /red.html; do
+            code=$(curl -s -o /tmp/page.html -w "%{http_code}" "http://127.0.0.1:8000${path}")
+            test "$code" = "200"
+          done

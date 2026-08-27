@@ -1,0 +1,395 @@
+{
+  "generated_at": "2026-08-27T01:31:17.802601+00:00",
+  "profile": {
+    "login": "piscis16031995",
+    "html_url": "https://github.com/piscis16031995",
+    "public_repos": 3,
+    "followers": 3,
+    "following": 48,
+    "created_at": "2023-12-02T13:05:51Z"
+  },
+  "own_repositories": [
+    {
+      "name": "02DATATECHIA1995",
+      "html_url": "https://github.com/piscis16031995/02DATATECHIA1995",
+      "description": "Desarrollo de Software IA",
+      "empty": true,
+      "default_branch": "main",
+      "pushed_at": "2026-08-02T16:01:52Z",
+      "language": null
+    },
+    {
+      "name": "DevSoftGrupoData",
+      "html_url": "https://github.com/piscis16031995/DevSoftGrupoData",
+      "description": null,
+      "empty": true,
+      "default_branch": "main",
+      "pushed_at": "2025-05-12T14:42:43Z",
+      "language": null
+    },
+    {
+      "name": "piscis16031995",
+      "html_url": "https://github.com/piscis16031995/piscis16031995",
+      "description": "Config files for my GitHub profile.",
+      "empty": false,
+      "default_branch": "main",
+      "pushed_at": "2026-08-27T00:50:24Z",
+      "language": "CSS"
+    }
+  ],
+  "this_repo_reviews": {
+    "pull_requests": [
+      {
+        "author": {
+          "id": "U_kgDOCRoOnw",
+          "is_bot": false,
+          "login": "piscis16031995",
+          "name": ""
+        },
+        "comments": [],
+        "headRefName": "cursor/piscis16031995/setup-static-web-env-65a1",
+        "mergedAt": "2026-08-27T00:50:24Z",
+        "number": 1,
+        "reviews": [],
+        "state": "MERGED",
+        "title": "chore: set up Cloud Agent dev environment for the static web project",
+        "url": "https://github.com/piscis16031995/piscis16031995/pull/1"
+      }
+    ],
+    "review_count": 0,
+    "note": "PR #1 se fusionó sin reviews ni comentarios de seguidores. Ningún seguidor abrió issues (issues deshabilitados)."
+  },
+  "stargazers": [
+    "piscis16031995"
+  ],
+  "followers": [
+    {
+      "login": "jackjosias",
+      "name": "Jack-Josias",
+      "html_url": "https://github.com/jackjosias",
+      "bio": "Salut, je suis Jack Josias.\r\n\r\nTechnicien en Systèmes Informatiques et Logiciels (SIL). Full-stack Web, Mobile and Office Software Developer. ",
+      "public_repos": 27,
+      "followers": 79,
+      "reviewed_or_opened_this_repo": false,
+      "recent_public_repos": [
+        {
+          "name": "agent-scribe-graphify",
+          "html_url": "https://github.com/jackjosias/agent-scribe-graphify",
+          "description": "Portable AI agent memory system combining SCRIBE (causal memory) + Graphify (structural memory) for LLM-powered development workflows. Drop .agent/ into any project. Run bootstrap. Done."
+        },
+        {
+          "name": "gem-team",
+          "html_url": "https://github.com/jackjosias/gem-team",
+          "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.  With smarter tool calling and leaner context."
+        },
+        {
+          "name": "laravel-clean-auth-module",
+          "html_url": "https://github.com/jackjosias/laravel-clean-auth-module",
+          "description": "laravel-clean-auth-module - Module d'authentification Laravel 12 "
+        },
+        {
+          "name": "express.js-socket.io-next.js-Real-time-Chat-Application",
+          "html_url": "https://github.com/jackjosias/express.js-socket.io-next.js-Real-time-Chat-Application",
+          "description": "Real-time Chat Application with Socket.IO"
+        },
+        {
+          "name": "hacking-books",
+          "html_url": "https://github.com/jackjosias/hacking-books",
+          "description": null
+        }
+      ],
+      "note": "No se copió código de terceros. Solo metadatos públicos y enlaces."
+    },
+    {
+      "login": "T-Stephen",
+      "name": "T. Stephen Raj",
+      "html_url": "https://github.com/T-Stephen",
+      "bio": "AI & Data Science enthusiast | Building smart solutions with Python, ML & YOLO |Passionate about AI and innovation\r\n",
+      "public_repos": 10,
+      "followers": 382,
+      "reviewed_or_opened_this_repo": false,
+      "recent_public_repos": [
+        {
+          "name": "FixMyArea",
+          "html_url": "https://github.com/T-Stephen/FixMyArea",
+          "description": "FixMyArea – Smart Community Maintenance Platform for reporting and tracking neighborhood maintenance issues with location and priority."
+        },
+        {
+          "name": "global-disaster-tracker-ai",
+          "html_url": "https://github.com/T-Stephen/global-disaster-tracker-ai",
+          "description": "🌍 Real-time disaster tracking and AI-powered predictions with interactive maps and analytics dashboard. Built using Python, ReactJS, and Machine Learning for smarter disaster management."
+        },
+        {
+          "name": "taste-the-best",
+          "html_url": "https://github.com/T-Stephen/taste-the-best",
+          "description": "A highly available cloud culinary platform engineered and deployed utilizing scalable AWS EC2 infrastructure."
+        },
+        {
+          "name": "T-Stephen.github.io",
+          "html_url": "https://github.com/T-Stephen/T-Stephen.github.io",
+          "description": "My Personal Portfolio Website"
+        },
+        {
+          "name": "T-Stephen",
+          "html_url": "https://github.com/T-Stephen/T-Stephen",
+          "description": null
+        }
+      ],
+      "note": "No se copió código de terceros. Solo metadatos públicos y enlaces."
+    },
+    {
+      "login": "Aftaritet1990",
+      "name": null,
+      "html_url": "https://github.com/Aftaritet1990",
+      "bio": null,
+      "public_repos": 0,
+      "followers": 1,
+      "reviewed_or_opened_this_repo": false,
+      "recent_public_repos": [],
+      "note": "No se copió código de terceros. Solo metadatos públicos y enlaces."
+    }
+  ],
+  "following": [
+    {
+      "login": "dfriedberg",
+      "html_url": "https://github.com/dfriedberg",
+      "type": "User"
+    },
+    {
+      "login": "ColeTownsend",
+      "html_url": "https://github.com/ColeTownsend",
+      "type": "User"
+    },
+    {
+      "login": "sukhvinder",
+      "html_url": "https://github.com/sukhvinder",
+      "type": "User"
+    },
+    {
+      "login": "JacobDu",
+      "html_url": "https://github.com/JacobDu",
+      "type": "User"
+    },
+    {
+      "login": "Reyes-PARK",
+      "html_url": "https://github.com/Reyes-PARK",
+      "type": "User"
+    },
+    {
+      "login": "flyfoxwhu",
+      "html_url": "https://github.com/flyfoxwhu",
+      "type": "User"
+    },
+    {
+      "login": "httpstersk",
+      "html_url": "https://github.com/httpstersk",
+      "type": "User"
+    },
+    {
+      "login": "crisious",
+      "html_url": "https://github.com/crisious",
+      "type": "User"
+    },
+    {
+      "login": "devzucca",
+      "html_url": "https://github.com/devzucca",
+      "type": "User"
+    },
+    {
+      "login": "WICG",
+      "html_url": "https://github.com/WICG",
+      "type": "Organization"
+    },
+    {
+      "login": "BrianPugh",
+      "html_url": "https://github.com/BrianPugh",
+      "type": "User"
+    },
+    {
+      "login": "ProximaB",
+      "html_url": "https://github.com/ProximaB",
+      "type": "User"
+    },
+    {
+      "login": "tksuns12",
+      "html_url": "https://github.com/tksuns12",
+      "type": "User"
+    },
+    {
+      "login": "ohjho",
+      "html_url": "https://github.com/ohjho",
+      "type": "User"
+    },
+    {
+      "login": "macnversion",
+      "html_url": "https://github.com/macnversion",
+      "type": "User"
+    },
+    {
+      "login": "jack-wz",
+      "html_url": "https://github.com/jack-wz",
+      "type": "User"
+    },
+    {
+      "login": "jwc-rad",
+      "html_url": "https://github.com/jwc-rad",
+      "type": "User"
+    },
+    {
+      "login": "ghkdxofla",
+      "html_url": "https://github.com/ghkdxofla",
+      "type": "User"
+    },
+    {
+      "login": "ramunasnognys",
+      "html_url": "https://github.com/ramunasnognys",
+      "type": "User"
+    },
+    {
+      "login": "LSH0924",
+      "html_url": "https://github.com/LSH0924",
+      "type": "User"
+    },
+    {
+      "login": "yeseong9769",
+      "html_url": "https://github.com/yeseong9769",
+      "type": "User"
+    },
+    {
+      "login": "astheboy",
+      "html_url": "https://github.com/astheboy",
+      "type": "User"
+    },
+    {
+      "login": "ahmsyhmi",
+      "html_url": "https://github.com/ahmsyhmi",
+      "type": "User"
+    },
+    {
+      "login": "raymondlore",
+      "html_url": "https://github.com/raymondlore",
+      "type": "User"
+    },
+    {
+      "login": "Mi0uno",
+      "html_url": "https://github.com/Mi0uno",
+      "type": "User"
+    },
+    {
+      "login": "hiyajiru",
+      "html_url": "https://github.com/hiyajiru",
+      "type": "User"
+    },
+    {
+      "login": "Taehyeon-Kim",
+      "html_url": "https://github.com/Taehyeon-Kim",
+      "type": "User"
+    },
+    {
+      "login": "3m4r5",
+      "html_url": "https://github.com/3m4r5",
+      "type": "User"
+    },
+    {
+      "login": "ptmetcalf",
+      "html_url": "https://github.com/ptmetcalf",
+      "type": "User"
+    },
+    {
+      "login": "jackjosias",
+      "html_url": "https://github.com/jackjosias",
+      "type": "User"
+    },
+    {
+      "login": "SunG206",
+      "html_url": "https://github.com/SunG206",
+      "type": "User"
+    },
+    {
+      "login": "found-cake",
+      "html_url": "https://github.com/found-cake",
+      "type": "User"
+    },
+    {
+      "login": "bystander1110",
+      "html_url": "https://github.com/bystander1110",
+      "type": "User"
+    },
+    {
+      "login": "PixelCode01",
+      "html_url": "https://github.com/PixelCode01",
+      "type": "User"
+    },
+    {
+      "login": "Stankjedi",
+      "html_url": "https://github.com/Stankjedi",
+      "type": "User"
+    },
+    {
+      "login": "RaulAdSe",
+      "html_url": "https://github.com/RaulAdSe",
+      "type": "User"
+    },
+    {
+      "login": "Franklyc",
+      "html_url": "https://github.com/Franklyc",
+      "type": "User"
+    },
+    {
+      "login": "shyamsridhar123",
+      "html_url": "https://github.com/shyamsridhar123",
+      "type": "User"
+    },
+    {
+      "login": "MF-Dust",
+      "html_url": "https://github.com/MF-Dust",
+      "type": "User"
+    },
+    {
+      "login": "GODz94",
+      "html_url": "https://github.com/GODz94",
+      "type": "User"
+    },
+    {
+      "login": "DesperfX",
+      "html_url": "https://github.com/DesperfX",
+      "type": "User"
+    },
+    {
+      "login": "IksRain",
+      "html_url": "https://github.com/IksRain",
+      "type": "User"
+    },
+    {
+      "login": "GastonAQS-LuckyRabbit",
+      "html_url": "https://github.com/GastonAQS-LuckyRabbit",
+      "type": "User"
+    },
+    {
+      "login": "IvanDaniliuk01",
+      "html_url": "https://github.com/IvanDaniliuk01",
+      "type": "User"
+    },
+    {
+      "login": "saradarb",
+      "html_url": "https://github.com/saradarb",
+      "type": "User"
+    },
+    {
+      "login": "MiniMax-AI",
+      "html_url": "https://github.com/MiniMax-AI",
+      "type": "Organization"
+    },
+    {
+      "login": "Aftaritet1990",
+      "html_url": "https://github.com/Aftaritet1990",
+      "type": "User"
+    },
+    {
+      "login": "KING000T",
+      "html_url": "https://github.com/KING000T",
+      "type": "User"
+    }
+  ],
+  "extraction_policy": "No se extrae ni adjunta código fuente de repositorios de terceros ni de seguidores. Solo inventario público, enlaces y metadatos para evitar problemas de copyright y de sincronización."
+}
