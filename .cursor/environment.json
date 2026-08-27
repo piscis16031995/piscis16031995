@@ -1,5 +1,7 @@
 {
   "name": "Diseño Web Profesional (sitio estático)",
+  "install": "./scripts/cloud-agent-install.sh",
+  "start": "./scripts/cloud-agent-start.sh",
   "ports": [{ "name": "web", "port": 8000 }],
   "terminals": [
     {
