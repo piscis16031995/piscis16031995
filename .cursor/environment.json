@@ -1,0 +1,11 @@
+{
+  "name": "Diseño Web Profesional (sitio estático)",
+  "ports": [{ "name": "web", "port": 8000 }],
+  "terminals": [
+    {
+      "name": "web",
+      "command": "python3 -m http.server 8000 --bind 0.0.0.0",
+      "description": "Servidor web estático que sirve el sitio en http://localhost:8000"
+    }
+  ]
+}

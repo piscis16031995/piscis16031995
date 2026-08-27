@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Diseño Web Profesional: curso completo y práctico de HTML, CSS y JavaScript desde cero."
+    />
+    <title>Diseño Web Profesional · Desde 0</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+
+    <header class="site-header">
+      <nav class="nav" aria-label="Navegación principal">
+        <a class="brand" href="/">Diseño Web Pro</a>
+        <ul class="nav-list">
+          <li><a href="#modulos">Módulos</a></li>
+          <li><a href="#practica">Práctica</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="contenido">
+      <section class="hero" aria-labelledby="hero-title">
+        <p class="eyebrow">Curso completo y práctico</p>
+        <h1 id="hero-title">Aprende Diseño Web Profesional desde 0</h1>
+        <p class="lead">
+          HTML semántico, CSS moderno con Flexbox y Grid, y JavaScript ES6+.
+          Todo con buenas prácticas de accesibilidad y rendimiento.
+        </p>
+        <div class="actions">
+          <button id="empezar" class="btn btn-primary" type="button">
+            Empezar ahora
+          </button>
+          <a class="btn btn-ghost" href="#modulos">Ver módulos</a>
+        </div>
+        <p id="mensaje" class="mensaje" role="status" aria-live="polite"></p>
+      </section>
+
+      <section id="modulos" class="modulos" aria-labelledby="modulos-title">
+        <h2 id="modulos-title">Módulos del curso</h2>
+        <ul class="cards">
+          <li class="card">
+            <h3>HTML Semántico</h3>
+            <p>Estructura accesible con etiquetas con significado.</p>
+          </li>
+          <li class="card">
+            <h3>CSS Moderno</h3>
+            <p>Diseños responsivos con Flexbox y CSS Grid.</p>
+          </li>
+          <li class="card">
+            <h3>JavaScript ES6+</h3>
+            <p>Interactividad limpia sin mutaciones innecesarias.</p>
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer id="contacto" class="site-footer">
+      <p>Hecho con &hearts; para aprender diseño web · <span id="anio"></span></p>
+    </footer>
+
+    <script src="main.js"></script>
+  </body>
+</html>
