@@ -1,13 +1,46 @@
-- 👋 Hola, soy [@piscis16031995](https://github.com/piscis16031995)
-- 👀 Me interesa el Desarrollo web, Desarrollo de Software & Data Base e IDE Cursor AI
-- 🌱 Estoy aprendiendo HTML semántico, CSS moderno y JavaScript ES6+ (experimental)
-- 💞️ Busco colaborar en proyectos de formación práctica
-- 📫 GitHub: [github.com/piscis16031995](https://github.com/piscis16031995)
-- ⚡ Repositorio de perfil + entorno Cursor sincronizado con GitHub
+# Javier Alfredo Castillo Villafuerte
 
-## Entorno de trabajo
+### Ingeniería · desarrollo web · aprendizaje continuo
 
-Sitio estático **Diseño Web Profesional · Desde 0**. En Cursor Cloud se sirve en `http://localhost:8000`.
+¡Hola! Soy Javier, profesional de Ingeniería interesado en crear experiencias web claras, accesibles y útiles. Este es mi espacio para documentar aprendizaje, práctica y proyectos de desarrollo.
+
+## Sobre mí
+
+- Desarrollo con una base de HTML semántico, CSS moderno y JavaScript ES6+.
+- Profundizo en desarrollo web, software y datos mediante práctica constante.
+- Uso herramientas de IA como Cursor para mejorar el flujo de trabajo de desarrollo.
+- Busco colaborar en proyectos de formación práctica y aprendizaje compartido.
+
+## Stack y herramientas
+
+### Desarrollo
+
+`HTML5` · `CSS3` · `JavaScript (ES6+)` · `GitHub` · `Cursor`
+
+### Diseño, colaboración y productividad
+
+`Figma` · `Canva` · `Notion` · `Slack` · `Jira` · `Zoom` · `Microsoft 365` · `Google Workspace`
+
+### Plataformas
+
+`Vercel` · `LinkedIn`
+
+## Proyectos
+
+| Repositorio | Enfoque |
+| --- | --- |
+| [piscis16031995](https://github.com/piscis16031995/piscis16031995) | Configuración de este perfil y sitio estático de práctica. |
+| [02DATATECHIA1995](https://github.com/piscis16031995/02DATATECHIA1995) | Espacio inicial para desarrollo de software con IA. Aún sin contenido público. |
+| [DevSoftGrupoData](https://github.com/piscis16031995/DevSoftGrupoData) | Repositorio inicial, pendiente de su primer commit. |
+
+## Contacto
+
+- GitHub: [@piscis16031995](https://github.com/piscis16031995)
+- LinkedIn: enlace público pendiente de añadir
+
+## Entorno de este repositorio
+
+Este repositorio también contiene el sitio estático de práctica **Diseño Web Profesional · Desde 0**. En Cursor Cloud se sirve en `http://localhost:8000`.
 
 | Recurso | Enlace |
 | --- | --- |
@@ -15,12 +48,6 @@ Sitio estático **Diseño Web Profesional · Desde 0**. En Cursor Cloud se sirve
 | Inventario de ramas | [ramas/inventario.json](ramas/inventario.json) |
 | Red pública (seguidores) | [red/red.json](red/red.json) |
 | Sincronizar origen | `./scripts/sync-origin.sh` |
-
-## Repositorios
-
-- [piscis16031995/piscis16031995](https://github.com/piscis16031995/piscis16031995) — este perfil y el curso práctico
-- [02DATATECHIA1995](https://github.com/piscis16031995/02DATATECHIA1995) — Desarrollo de Software IA (aún vacío)
-- [DevSoftGrupoData](https://github.com/piscis16031995/DevSoftGrupoData) — pendiente de primer commit
 
 <!---
 piscis16031995/piscis16031995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
